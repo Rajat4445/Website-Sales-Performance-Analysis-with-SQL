@@ -1,4 +1,6 @@
 # Website-Sales-Performance-Analysis-with-SQL
+
+Full Presentation: `Website Sales & Performance Analysis with SQL.pdf` (Attached Above)
 This project covers in-depth analysis of Mavenfuzzyfactory data using SQL. Includes, traffic source analysis, website performance, business trends, product analysis and user analysis.
 
 ## Database & Presentation Link:
